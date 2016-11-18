@@ -1,4 +1,5 @@
 ##Contach.gtml###
+### Added the file to GIT repo###
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -31,9 +32,9 @@
 
 	<div class="navigation">
 		<ul>
-			<li><a href="index.html">Mane</a></li>
+			<li><a href="index.html">HOME</a></li>
 			<li><a href="about.html">Bagge</a></li>
-			<li><a href="picture.html">Pictures</a></li>
+			<li><a href="picture.html">PICTURES</a></li>
 			<li class="bdr"><a class="pdg active" href="contact.html">Kare Maadi</a></li>					
 		</ul>
 	</div>
